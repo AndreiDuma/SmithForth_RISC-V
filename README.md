@@ -5,7 +5,7 @@ Smith's excellent x86-64 [SmithForth](https://dacvs.neocities.org/SF/).
 Run with `make run`.  You will need to run Linux either on RISC-V
 hardware or in a QEMU environment.
 
-This project was developed as part of my Master's [thesis](https://github.com/AndreiDuma/SmithForth_RISC-V/releases/download/v0.1/From_x86-64_Forth_to_RISC-V.pdf), in
+This project was developed as part of my Master's [thesis](https://github.com/AndreiDuma/SmithForth_RISC-V/releases/download/v1.0/From_x86-64_Forth_to_RISC-V_Andrei_Dorian_Duma_2024.pdf), in
 which I thoroughly annotate SmithForth's machine code before porting
 it to RISC-V.  The abstract of my thesis is given below:
 
@@ -25,4 +25,4 @@ it to RISC-V.  The abstract of my thesis is given below:
 > constructs. We complete our demonstration with a Forth
 > implementation of FizzBuzz, showing the usability of the system.
 
-Those interested can [download](https://github.com/AndreiDuma/SmithForth_RISC-V/releases/download/v0.1/From_x86-64_Forth_to_RISC-V.pdf) the thesis document in PDF format.
+Those interested can [download](https://github.com/AndreiDuma/SmithForth_RISC-V/releases/download/v1.0/From_x86-64_Forth_to_RISC-V_Andrei_Dorian_Duma_2024.pdf) the thesis document in PDF format.
